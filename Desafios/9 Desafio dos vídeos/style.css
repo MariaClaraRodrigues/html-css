@@ -1,0 +1,21 @@
+body {
+    background-color:rgba(0, 0, 0, 0.836);
+}
+
+h1 {
+    text-align: center; 
+    color: white;
+    font-size: 40px;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+main {
+    width: 430px;
+    margin: auto;
+    text-align: center;
+}
