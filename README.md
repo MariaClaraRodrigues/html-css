@@ -11,8 +11,6 @@
 
 <a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex006/index.html"> Execultar o exercício 006</a> 
 
-<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex007/index.html"> Execultar o exercício 007</a> 
-
 <a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex008/index.html"> Execultar o exercício 008</a> 
 
 <a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex008-b/index.html"> Execultar o exercício 008-b</a> 
