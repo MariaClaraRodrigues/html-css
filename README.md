@@ -8,3 +8,29 @@
 <a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex003/index.html"> Execultar o exercício 003</a> 
 
 <a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex004/index.html"> Execultar o exercício 004</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex006/index.html"> Execultar o exercício 006</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex007/index.html"> Execultar o exercício 007</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex008/index.html"> Execultar o exercício 008</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex008-b/index.html"> Execultar o exercício 008-b</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex009/index.html"> Execultar o exercício 009</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex010/index.html"> Execultar o exercício 010</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex011/index.html"> Execultar o exercício 011</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex016/index.html"> Execultar o exercício 016</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex017/index.html"> Execultar o exercício 017</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex018/index.html"> Execultar o exercício 018</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex019/index.html"> Execultar o exercício 019</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex020/index.html"> Execultar o exercício 020</a> 
+
+<a href="https://mariaclararodrigues.github.io/html-css/Exercicios/ex021/index.html"> Execultar o exercício 021</a> 
